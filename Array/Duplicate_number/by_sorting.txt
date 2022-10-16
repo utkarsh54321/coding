@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+//1st method
 
 void dup(vector<int>&vec,int n,int c){
 	sort(vec.begin(),vec.end());
